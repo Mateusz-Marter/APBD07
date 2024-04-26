@@ -7,7 +7,7 @@ namespace LinqTutorials
         static void Main(string[] args)
         {
             var t = LinqTasks.Task1();
-
+            Console.WriteLine(t);
         }
     }
 }
